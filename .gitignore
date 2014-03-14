@@ -1,2 +1,4 @@
 _site
 *~
+assets/bootstrap
+assets/jquery
