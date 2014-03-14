@@ -1,0 +1,16 @@
+---
+layout: post
+status: publish
+published: true
+title: Recent events
+wordpress_id: 421
+wordpress_url: http://www.artiosband.com/?p=421
+date: 2012-01-09 22:21:34.000000000 -05:00
+categories:
+- Uncategorized
+tags: []
+comments: []
+---
+Hey Artios fans! We have been hard at work the past couple months and its about time for an update as to the progress we have been making. Where to start?
+
+We finished up all of my lead vocal parts for the first 7 songs on the album. Most of the harmony parts have also been completed for the first 7 songs. While working on doing harmony parts for "Baron01" we brought in our good friend Hal to help fill out our group singing section.

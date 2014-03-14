@@ -1,0 +1,15 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+author: Mark
+author_login: mark
+author_email: mark.wolf.music@gmail.com
+wordpress_id: 634
+wordpress_url: http://www.artiosband.com/?p=634
+date: 2012-02-21 19:56:21.000000000 -05:00
+categories: []
+tags: []
+comments: []
+---
+ 

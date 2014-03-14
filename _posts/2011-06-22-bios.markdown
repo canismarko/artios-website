@@ -1,0 +1,20 @@
+---
+layout: page
+status: publish
+published: true
+title: About the Band
+author: Mark
+author_login: mark
+author_email: mark.wolf.music@gmail.com
+wordpress_id: 28
+wordpress_url: http://blog.artiosband.com/?page_id=28
+date: 2011-06-22 22:27:11.000000000 -04:00
+categories: []
+tags: []
+comments: []
+---
+Artios is a motivated pop/rock band formed in western Michigan with some members now residing in Chicago. They are a five piece band with a powerful sound, focusing on quality songwriting and energetic live performances. To get an idea of their sound, imagine The Beatles go on a ski trip to the Alps. After a failed attempt at the terrain park, they crash into one another creating a huge Beatle snowball that rolls over Billy Joel in the moguls and then smashes into the lodge where Stevie Ray Vaughn is playing. Somewhere in the rubble you will find the sweet sound of Artios.
+
+From bars and clubs to live shows on the radio, Artios has performed in numerous venues throughout southwest Michigan and Chicago to promote the release of their EP, entitled Siren. Recently, they performed as part of the <em>Live, Loud N' Local</em> festival. In 2011 their music helped cheer on participants in the first ever Kalamazoo Marathon, with over 1,500 in attendance. Artios is also currently in the process of recording their first full length album, utilizing the knowledge of several Artios members with experience as professional sound engineers. They recently released <em>Home</em> and <em>The Vision </em>off their future album on WIDR 89.1FM.
+
+Founding members of Artios, Erik Sebastian (guitar, vocals); Ryan Cousins (drums, vocals); and Patrick Sebastian (keyboard, vocals), have been playing together for over a decade with roots as a blues oriented group and later adding Mike Grammes on guitar, sax and vocals. With the final addition of Mark Wolf (bass, vocals) the band has been hard at work writing original music and building up a following in the Midwest. Artios plans to release their first full length album and begin promoting it with a regional tour within a year.

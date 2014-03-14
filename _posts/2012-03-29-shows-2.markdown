@@ -1,0 +1,16 @@
+---
+layout: page
+status: publish
+published: true
+title: Shows
+author: Mark
+author_login: mark
+author_email: mark.wolf.music@gmail.com
+wordpress_id: 921
+wordpress_url: http://artiosband.com/?page_id=921
+date: 2012-03-29 11:42:12.000000000 -04:00
+categories: []
+tags: []
+comments: []
+---
+<img style="visibility:hidden;width:0px;height:0px;" border=0 width=0 height=0 src="http://c.gigcount.com/wildfire/IMP/CXNID=2000002.0NXC/bT*xJmx*PTEzMzMwMzkyNDg3ODAmcHQ9MTMzMzAzOTI1MjE*OSZwPTI3MDgxJmQ9cHJvX3NjaGVkdWxlX2ZpcnN*X2dlbiZnPTEm/bz*2M2U2OTdmMTEwOTU*ZGVhYmE2Nzg1MzE1ZGI2NjQzOCZvZj*w.gif" /><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="434" height="326"><param name="movie" value="http://cache.reverbnation.com/widgets/swf/42/pro_widget.swf?id=artist_1573636&posted_by=&skin_id=PWSS3008&font_color=333333&show_map=true"></param><param name="allowscriptaccess" value="always"></param><param name="allowNetworking" value="all"></param><param name="allowfullscreen" value="true"></param><param name="wmode" value="transparent"></param><param name="quality" value="best"></param><embed src="http://cache.reverbnation.com/widgets/swf/42/pro_widget.swf?id=artist_1573636&posted_by=&skin_id=PWSS3008&font_color=333333&show_map=true" type="application/x-shockwave-flash" allowscriptaccess="always" allowNetworking="all" allowfullscreen="true" wmode="transparent" quality="best" width="434" height="326"></embed></object><br/><img style="visibility:hidden;width:0px;height:0px;" border=0 width=0 height=0 src="http://www.reverbnation.com/widgets/trk/42/artist_1573636//t.gif" /><img src="http://b.scorecardresearch.com/p?c1=2&c2=10349858&cv=2.0&cj=1" style="display: none" border="0" height="1" width="1" alt="ComScore"/>
