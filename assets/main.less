@@ -1,3 +1,5 @@
+@primary-background: white;
+
 @import 'bootstrap/less/bootstrap.less';
 
 body {
@@ -6,4 +8,61 @@ body {
 
 .header {
     .container;
+}
+
+.navbar {
+    .home-icon,.music-icon,.shows-icon,.about-icon,.contact-icon,.photos-icon {
+	.glyphicon;
+    }
+    span.home-icon { .glyphicon-home; }
+    span.music-icon { .glyphicon-music; }
+    span.shows-icon { .glyphicon-calendar; }
+    span.about-icon { .glyphicon-user; }
+    span.contact-icon { .glyphicon-envelope; }
+    span.photos-icon { .glyphicon-camera; }
+}
+
+.content {
+    .container;
+}
+
+.content-box {
+    padding: 15px;
+    border-radius: 5px;
+    background: white;
+    margin: 20px 0px;
+}
+
+.sidebar {
+    .make-md-column(4);
+    > div {
+	.content-box;
+    }
+}
+
+.page-content {
+    .make-md-column(8);
+    > div {
+	.content-box;
+    }
+    h1 {
+	font-size: 24px;
+    }
+    .post-meta {
+	margin-left: 10px;
+	font-style: italic;
+    }
+    img {
+	.img-responsive();
+    }
+}
+
+.about-photo {
+    .make-md-column(5);
+}
+.about-bio {
+    .make-md-column(7);
+    p {
+    	text-align: justify;
+    }
 }
