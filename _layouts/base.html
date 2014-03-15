@@ -70,7 +70,11 @@
 	      {% endif %}
 	      <a href="{{ site.url }}/about/"><span class="about-icon"></span> About Us</a>
 	    </li>
+	    {% if page.url == '/contact.html' %}
+	    <li class="active">
+	      {% else %}
 	    <li>
+	      {% endif %}
 	      <a href="{{ site.url }}/contact.html"><span class="contact-icon"></span> Contact</a>
 	    </li>
 	    <li>
@@ -82,7 +86,6 @@
       </nav>
 
       <div class="content">
-	{{ page.url }}
 	{{ content }}
       </div>
 

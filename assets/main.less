@@ -30,13 +30,17 @@ body {
     padding: 15px;
     border-radius: 5px;
     background: white;
-    margin: 20px 0px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .sidebar {
     .make-md-column(4);
     > div {
 	.content-box;
+    }
+    h1 {
+	font-size: 24px;
     }
 }
 
@@ -45,15 +49,18 @@ body {
     > div {
 	.content-box;
     }
-    h1 {
-	font-size: 24px;
-    }
     .post-meta {
 	margin-left: 10px;
 	font-style: italic;
     }
     img {
 	.img-responsive();
+    }
+}
+
+.post {
+    h1 {
+	font-size: 24px;
     }
 }
 
