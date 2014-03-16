@@ -77,7 +77,11 @@
 	      {% endif %}
 	      <a href="{{ site.url }}/contact.html"><span class="contact-icon"></span> Contact</a>
 	    </li>
+	    {% if page.url == '/photos.html' %}
+	    <li class="active">
+	      {% else %}
 	    <li>
+	      {% endif %}
 	      <a href="{{ site.url }}/photos.html"><span class="photos-icon"></span> Photos</a>
 	    </li>
 	  </ul>
@@ -88,6 +92,10 @@
       <div class="content">
 	{{ content }}
       </div>
+
+      <div class="footer">
+	&copy; Copyright {{ site.time | date: '%Y' }} Mark Wolf &ndash; All rights reserved
+      </div><!-- /.footer -->
 
     </div><!-- /.container -->
   </body>

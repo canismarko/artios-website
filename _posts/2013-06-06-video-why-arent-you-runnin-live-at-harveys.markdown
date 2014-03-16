@@ -5,7 +5,6 @@ author: Mark
 categories: Live
 ---
 
-
 Here's another from the Live-at-Harvey's series. It's an original that
 we deemed the unofficial theme song of the Kalamazoo marathon a few
 years ago.
