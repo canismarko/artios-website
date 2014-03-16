@@ -12,5 +12,12 @@ title: "News"
     By {{ post.author }} on {{ post.date | date_to_string }}
   </p>
   {{ post.excerpt }}
+  {% if post.content contains '<!-- more -->' %}
+  <p>
+    <a href="{{ post.url }}" title="Full post">
+      Continue reading more...
+    </a>
+  </p>
+  {% endif %}
 </div>
 {% endfor %}

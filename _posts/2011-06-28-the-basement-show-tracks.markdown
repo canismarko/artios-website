@@ -1,56 +1,79 @@
 ---
 layout: post
-status: publish
-published: true
-title: 'The Basement Show: Tracks'
+title: "The Basement Show: Tracks"
 author: Mark
-author_login: mark
-author_email: mark.wolf.music@gmail.com
-excerpt: |+
-  Hi, all. Due to popular demand we're releasing the individual MP3's of our basement show songs. If you want all of them, grab the .zip file. Otherwise the individual tracks are available as well. We wish we had some photos or videos to show you of the experience but oh well. Next time.
-
-  Enjoy!
-
-  All tracks: <a title="Zip File" href="http://blog.artiosband.com/audio/basement_show-tracks.zip">Zip File</a>
-
-  Download: <a href="http://50.7.8.227/wp-content/uploads/2011/06/WIDR-Sunset_Drive.mp3">Sunset Drive</a> [audio:http://50.7.8.227/wp-content/uploads/2011/06/WIDR-Sunset_Drive.mp3|titles=Sunset Drive]
-
-wordpress_id: 259
-wordpress_url: http://blog.artiosband.com/?p=259
-date: 2011-06-28 07:50:07.000000000 -04:00
-categories:
-- Uncategorized
-- Live
-tags: []
-comments:
-- id: 24
-  author: Sandy
-  author_email: Sandyhaha@comcast.net
-  author_url: ''
-  date: '2011-06-28 08:34:52 -0400'
-  date_gmt: '2011-06-28 13:34:52 -0400'
-  content: Now your talking! YAY!!  You guys rock 'live'
 ---
-Hi, all. Due to popular demand we're releasing the individual MP3's of our basement show songs. If you want all of them, grab the .zip file. Otherwise the individual tracks are available as well. We wish we had some photos or videos to show you of the experience but oh well. Next time.
+
+Hi, all. Due to popular demand we're releasing the individual MP3's of
+our basement show songs. If you want all of them,
+<a href="{{ site.url }}/music/basement_show-tracks.zip"
+   title="Zip file of basement show tracks">grab the .zip file</a>.
+Otherwise the individual tracks are available below. We wish we had
+some photos or videos to show you of the experience but oh
+well. Next time.
 
 Enjoy!
 
-All tracks: <a title="Zip File" href="http://blog.artiosband.com/audio/basement_show-tracks.zip">Zip File</a>
+<h2>Sunset Drive</h2>
+<audio controls>
+  <source src="{{ site.url }}/music/WIDR-Sunset_Drive.mp3">
+</audio>
+<a href="{{ site.url }}/music/WIDR-Sunset_Drive.mp3"
+   title="MP3 of Sunset Drive on WIDR">Download MP3</a>
 
-Download: <a href="http://50.7.8.227/wp-content/uploads/2011/06/WIDR-Sunset_Drive.mp3">Sunset Drive</a> [audio:http://50.7.8.227/wp-content/uploads/2011/06/WIDR-Sunset_Drive.mp3|titles=Sunset Drive]
+<!-- more -->
 
-<a id="more"></a><a id="more-259"></a>
+<h2>Why Aren't You Runnin'?</h2>
+<audio controls>
+  <source src="{{ site.url }}/music/WIDR-Why_Arent_You_Running.mp3">
+</audio>
+<a href="{{ site.url }}/music/WIDR-Why_Arent_You_Running.mp3"
+   title="MP3 of Why Aren't You Runnin'? on WIDR">Download MP3</a>
 
-Download: <a href="http://50.7.8.227/wp-content/uploads/2011/06/WIDR-Why_Arent_You_Running.mp3">Why Aren't You Runnin'</a> [audio:http://50.7.8.227/wp-content/uploads/2011/06/WIDR-Why_Arent_You_Running.mp3|titles=WIDR-Why_Arent_You_Running]
+<h2>The Vision</h2>
+<audio controls>
+  <source src="{{ site.url }}/music/WIDR-The_Vision.mp3">
+</audio>
+<a href="{{ site.url }}/music/WIDR-The_Vision.mp3"
+   title="MP3 of The Vision on WIDR">Download MP3</a>
 
-Download: <a href="http://50.7.8.227/wp-content/uploads/2011/06/WIDR-The_Vision.mp3">The Vision</a> [audio:http://50.7.8.227/wp-content/uploads/2011/06/WIDR-The_Vision.mp3|titles=The Vision]
+<h2>Siren</h2>
+<audio controls>
+  <source src="{{ site.url }}/music/WIDR-Siren.mp3">
+</audio>
+<a href="{{ site.url }}/music/WIDR-Siren.mp3"
+   title="MP3 of Siren on WIDR">Download MP3</a>
 
-Download: <a href="http://50.7.8.227/wp-content/uploads/2011/06/WIDR-Siren.mp3">Siren</a> [audio:http://50.7.8.227/wp-content/uploads/2011/06/WIDR-Siren.mp3|titles=Siren]
+<h2>It's Alright</h2>
+<audio controls>
+  <source src="{{ site.url }}/music/WIDR-Its_Alright.mp3">
+</audio>
+<a href="{{ site.url }}/music/WIDR-Its_Alright.mp3"
+   title="MP3 of It's Alright on WIDR">Download MP3</a>
 
-Download: <a href="http://50.7.8.227/wp-content/uploads/2011/06/WIDR-Its_Alright.mp3">It's Alright</a> [audio:http://50.7.8.227/wp-content/uploads/2011/06/WIDR-Its_Alright.mp3|titles=It's Alright]
+<h2>Down In Flames</h2>
+<audio controls>
+  <source src="{{ site.url }}/music/WIDR-Down_In_Flames.mp3">
+</audio>
+<a href="{{ site.url }}/music/WIDR-Down_In_Flames.mp3"
+   title="MP3 of Down In Flames on WIDR">Download MP3</a>
 
-Download: <a href="http://50.7.8.227/wp-content/uploads/2011/06/WIDR-Down_In_Flames.mp3">Down In Flames</a> [audio:http://50.7.8.227/wp-content/uploads/2011/06/WIDR-Down_In_Flames.mp3|titles=Down In Flames]
+<h2>Break</h2>
+<audio controls>
+  <source src="{{ site.url }}/music/WIDR-Break.mp3">
+</audio>
+<a href="{{ site.url }}/music/WIDR-Break.mp3"
+   title="MP3 of Break on WIDR">Download MP3</a>
 
-Download: <a rel="attachment wp-att-261" href="http://blog.artiosband.com/?attachment_id=261">Break</a> [audio:http://50.7.8.227/wp-content/uploads/2011/06/WIDR-Break.mp3|titles=Break]
+<h2>Barn 01</h2>
+<audio controls>
+  <source src="{{ site.url }}/music/WIDR-Barn_01.mp3">
+</audio>
+<a href="{{ site.url }}/music/WIDR-Barn_01.mp3"
+   title="MP3 of Barn 01 on WIDR">Download MP3</a>
 
-Download: <a href="http://50.7.8.227/wp-content/uploads/2011/06/WIDR-Barn_01.mp3">Barn 01</a> [audio:http://50.7.8.227/wp-content/uploads/2011/06/WIDR-Barn_01.mp3|titles=Barn 01] 
+<h2>All tracks</h2>
+<a href="{{ site.url }}/music/basement_show-tracks.zip"
+   title="Download all the WIDR Basement Show tracks as MP3s">
+  ZIP file (37.2 MB)
+</a>
