@@ -57,8 +57,22 @@ body {
 }
 
 .post {
+    .content-box;
     h1 {
 	font-size: 24px;
+    }
+    .post-photo {
+	.make-md-column(5);
+	img {
+	    .img-responsive();
+	    .img-thumbnail();
+	}
+    }
+    .post-paragraph {
+	.make-md-column(7);
+    }
+    p {
+	text-align: justify;
     }
 }
 
