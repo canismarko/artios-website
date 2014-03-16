@@ -10,6 +10,28 @@ body {
     .img-responsive();
 }
 
+.social-icons {
+    /* Horizontal desktop menu */
+    @media (min-width: 768px) {
+	float: right;
+	a {
+	    padding: 9px !important;
+	}
+	img {
+	    height: 32px;
+	}
+	.social-label {
+	    display: none;
+	}
+    }
+    /* Condensed mobile menu */
+    @media (max-width: 768px) {
+	img {
+	    height: 20px;
+	}
+    }
+}
+
 .footer {
     .content-box;
     .text-center;
