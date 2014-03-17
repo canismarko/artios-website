@@ -1,9 +1,9 @@
 name: Artios Band
 
 markdown: redcarpet
-
 pygments: true
 
 url: "http://localhost:4000"
-
 excerpt_separator: <!-- more -->
+
+debug: 'true'

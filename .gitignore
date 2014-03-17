@@ -1,4 +1,3 @@
 _site
 *~
-assets/bootstrap
-assets/jquery
+assets/bower_components/

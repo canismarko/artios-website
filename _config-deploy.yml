@@ -1,0 +1,3 @@
+analytics: true
+debug: 'false'
+exclude: ["assets/bower_components/"]

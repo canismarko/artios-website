@@ -2,6 +2,7 @@
     "name": "Artios website",
     "private": "true",
     "dependencies": {
-	"bootstrap": ">=3.1.1"
+	"bootstrap": ">=3.1.1",
+	"less": ">=1.7"
     }
 }
