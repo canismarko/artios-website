@@ -11,7 +11,7 @@
     	  href="{{ site.url }}/assets/bower_components/bootstrap/dist/css/bootstrap.min.css">
     <link rel="stylesheet/less" type="text/css"
     	  href="{{ site.url }}/assets/main.less">
-    <script src="{{ site.url }}/assets/bower_components/less/dist/less-1.7.0.js"></script>
+    <script src="{{ site.url }}/assets/bower_components/less/dist/less.min.js"></script>
     {% else %}
     <link rel="stylesheet" type="text/css"
 	  href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.1.1/css/bootstrap.min.css">
@@ -55,7 +55,7 @@
 	      {% else %}
 	    <li>
 	      {% endif %}
-	      <a href="{{ site.url }}"><span class="home-icon"></span> News</a>
+	      <a href="{{ site.url }}/"><span class="home-icon"></span> News</a>
 	    </li>
 	    {% if page.url == '/music/index.html' %}
 	    <li class="active">
