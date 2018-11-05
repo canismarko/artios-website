@@ -1,4 +1,3 @@
-REMOTE=mwolf@simon.artiosonline.com:/srv/artios-public/
 BUILD=jekyll build --config _config.yml,_config-deploy.yml
 
 all: assets/main.min.css
@@ -9,7 +8,7 @@ assets/main.min.css: assets/main.less
 	yuicompressor -o assets/main.min.css assets/main.css
 
 deploy: all
-	rsync -alvz --del _site/ $(REMOTE)
+	s3_website push
 
 serve:
 	jekyll serve --watch
